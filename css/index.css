@@ -1,0 +1,19 @@
+@font-face {
+  font-family:'douying';
+  src: url('font/DouyinSansBold.ttf') format('truetype');
+  font-display: swap;
+}
+.nav-link{
+	-webkit-animation:focus-in-expand .8s cubic-bezier(.25,.46,.45,.94) both;animation:focus-in-expand .8s cubic-bezier(.25,.46,.45,.94) both
+}
+
+@-webkit-keyframes scale-mcd-in-ver-bottom{0%{-webkit-transform:scaleY(0);transform:scaleY(0);-webkit-transform-origin:0 100%;transform-origin:0 100%;opacity:1}100%{-webkit-transform:scaleY(1);transform:scaleY(1);-webkit-transform-origin:0 100%;transform-origin:0 100%;opacity:1}}@keyframes scale-mcd-in-ver-bottom{0%{-webkit-transform:scaleY(0);transform:scaleY(0);-webkit-transform-origin:0 100%;transform-origin:0 100%;opacity:1}100%{-webkit-transform:scaleY(1);transform:scaleY(1);-webkit-transform-origin:0 100%;transform-origin:0 100%;opacity:1}}
+@-webkit-keyframes scale-up-center{0%{-webkit-transform:scale(.5);transform:scale(.5)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes scale-up-center{0%{-webkit-transform:scale(.5);transform:scale(.5)}100%{-webkit-transform:scale(1);transform:scale(1)}}
+@-webkit-keyframes focus-in-expand{0%{letter-spacing:-.5em;-webkit-filter:blur(12px);filter:blur(12px);opacity:0}100%{-webkit-filter:blur(0);filter:blur(0);opacity:1}}@keyframes focus-in-expand{0%{letter-spacing:-.5em;-webkit-filter:blur(12px);filter:blur(12px);opacity:0}100%{-webkit-filter:blur(0);filter:blur(0);opacity:1}}
+.scale-up-center:hover{-webkit-animation:scale-up-center .8s cubic-bezier(.215,.61,.355,1.000) infinite alternate-reverse;animation:scale-up-center .8s cubic-bezier(.215,.61,.355,1.000) infinite alternate-reverse}
+.scale-mcd-in-ver-bottom{-webkit-animation:scale-in-ver-bottom .5s cubic-bezier(.175,.885,.32,1.275) both;animation:scale-in-ver-bottom .5s cubic-bezier(.175,.885,.32,1.275) both}
+@-webkit-keyframes lun_bou{0%{-webkit-transform:translateZ(-1400px) translateY(-800px);transform:translateZ(-1400px) translateY(-800px);opacity:0}100%{-webkit-transform:translateZ(0) translateY(0);transform:translateZ(0) translateY(0);opacity:1}}@keyframes lun_bou{0%{-webkit-transform:translateZ(-1400px) translateY(-800px);transform:translateZ(-1400px) translateY(-800px);opacity:0}100%{-webkit-transform:translateZ(0) translateY(0);transform:translateZ(0) translateY(0);opacity:1}}
+.lun_bou{-webkit-animation:lun_bou .4s cubic-bezier(.25,.46,.45,.94) both;animation:lun_bou .4s cubic-bezier(.25,.46,.45,.94) both}
+
+.card-img-top:hover,.card-body .btn:hover{animation:card-img-top .3s linear infinite both}
+@keyframes card-img-top{0%{transform:translate(0)}20%{transform:translate(2px,-2px)}40%{transform:translate(2px,2px)}60%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}100%{transform:translate(0)}}
