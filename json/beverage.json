@@ -1,0 +1,290 @@
+[
+  {
+    "name": [
+      "可口可乐"
+    ],
+    "detail": [
+      "搭配正餐小食，好带劲！"
+    ],
+    "small": {
+      "Power": "446",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "26",
+      "Na": "0",
+      "Ca": "7"
+    },
+    "med": {
+      "Power": "616",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "36",
+      "Na": "0",
+      "Ca": "10"
+    },
+    "Big": {
+      "Power": "936",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "55",
+      "Na": "0",
+      "Ca": "15"
+    }
+  },
+  {
+    "name": [
+      "无糖可口可乐"
+    ],
+    "detail": [
+      "无糖畅爽，尽释美妙！"
+    ],
+    "small": {
+      "Power": "0",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "0",
+      "Na": "25",
+      "Ca": "0"
+    },
+    "med": {
+      "Power": "0",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "1",
+      "Na": "35",
+      "Ca": "0"
+    },
+    "Big": {
+      "Power": "0",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "1",
+      "Na": "53",
+      "Ca": "0"
+    }
+  },
+  {
+    "name": [
+      "阳光柠檬红茶"
+    ],
+    "detail": [
+      "甜蜜口感，清新滋润。"
+    ],
+    "small": {
+      "Power": "354",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "21",
+      "Na": "12",
+      "Ca": "0"
+    },
+    "med": {
+      "Power": "488",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "29",
+      "Na": "17",
+      "Ca": "0"
+    },
+    "Big": {
+      "Power": "743",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "43",
+      "Na": "25",
+      "Ca": "0"
+    }
+  },
+  {
+    "name": [
+      "雪碧"
+    ],
+    "detail": [
+      "搭配正餐小食，好清爽！"
+    ],
+    "small": {
+      "Power": "319",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "19",
+      "Na": "21",
+      "Ca": "0"
+    },
+    "med": {
+      "Power": "440",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "26",
+      "Na": "29",
+      "Ca": "0"
+    },
+    "Big": {
+      "Power": "669",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "39",
+      "Na": "45",
+      "Ca": "0"
+    }
+  },
+  {
+    "name": [
+      "怡泉+C"
+    ],
+    "detail": [
+      "清爽柠檬搭配丰富气泡，酸酸甜甜夏日必备！"
+    ],
+    "small": {
+      "Power": "461",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "27",
+      "Na": "0",
+      "Ca": "0"
+    },
+    "Big": {
+      "Power": "701",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "41",
+      "Na": "0",
+      "Ca": "0"
+    }
+  },
+  {
+    "name": [
+      "麦旋酷阳光橙"
+    ],
+    "detail": [
+      "阳光橙加冰淇淋的奇妙组合。"
+    ],
+    "small": {
+      "Power": "955",
+      "Proteins": "1",
+      "Fat": "2",
+      "Carbohydrates": "50",
+      "Na": "77",
+      "Ca": "52"
+    }
+  },
+  {
+    "name": [
+      "【美汁源】“黄金橙橙”"
+    ],
+    "detail": [
+      "维他命+纤维，营养就要新鲜的。"
+    ],
+    "small": {
+      "Power": "691",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "41",
+      "Na": "53",
+      "Ca": "0"
+    }
+  },
+  {
+    "name": [
+      "100%苹果汁"
+    ],
+    "detail": [
+      "100%苹果汁，纸盒包装。"
+    ],
+    "small": {
+      "Power": "368",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "21",
+      "Na": "0",
+      "Ca": "0"
+    }
+  },
+  {
+    "name": [
+      "优品豆浆"
+    ],
+    "detail": [
+      "精选黄豆，富含优质蛋白质，开启能量满满的一天。"
+    ],
+    "small": {
+      "Power": "633",
+      "Proteins": "6",
+      "Fat": "3",
+      "Carbohydrates": "25",
+      "Na": "32",
+      "Ca": "15"
+    },
+    "Big": {
+      "Power": "844",
+      "Proteins": "8",
+      "Fat": "4",
+      "Carbohydrates": "33",
+      "Na": "43",
+      "Ca": "21"
+    }
+  },
+  {
+    "name": [
+      "纯牛奶（盒装）"
+    ],
+    "detail": [
+      "喝牛奶，长高高。"
+    ],
+    "small": {
+      "Power": "541",
+      "Proteins": "7",
+      "Fat": "7",
+      "Carbohydrates": "10",
+      "Na": "73",
+      "Ca": "231"
+    }
+  },
+  {
+    "name": [
+      "热朱古力"
+    ],
+    "detail": [
+      "醇厚香滑，爱不释手。"
+    ],
+    "small": {
+      "Power": "525",
+      "Proteins": "2",
+      "Fat": "2",
+      "Carbohydrates": "22",
+      "Na": "107",
+      "Ca": "36"
+    }
+  },
+  {
+    "name": [
+      "锡兰红茶"
+    ],
+    "detail": [
+      "香浓热红茶，给你全天醒神暖意﹗"
+    ],
+    "small": {
+      "Power": "8",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "0",
+      "Na": "0",
+      "Ca": "5"
+    }
+  },
+  {
+    "name": [
+      "纯悦"
+    ],
+    "detail": [
+      "多喝水，促代谢。"
+    ],
+    "small": {
+      "Power": "0",
+      "Proteins": "0",
+      "Fat": "0",
+      "Carbohydrates": "0",
+      "Na": "0",
+      "Ca": "0"
+    }
+  }
+]

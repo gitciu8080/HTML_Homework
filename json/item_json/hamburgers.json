@@ -1,0 +1,82 @@
+[
+  {
+    "img": "img/hamburgers/巨无霸.png",
+    "name": "巨无霸",
+    "link": "https://www.mcdonalds.com.cn/product/Big-Mac"
+  },
+  {
+    "img": "img/hamburgers/汉堡包.png",
+    "name": "汉堡包",
+    "link": "https://www.mcdonalds.com.cn/product/Hamburger"
+  },
+  {
+    "img": "img/hamburgers/麦辣鸡腿汉堡.png",
+    "name": "麦辣鸡腿汉堡",
+    "link": "https://www.mcdonalds.com.cn/product/Spicy-Chicken-Filet"
+  },
+  {
+    "img": "img/hamburgers/板烧鸡腿堡.png",
+    "name": "板烧鸡腿堡",
+    "link": "https://www.mcdonalds.com.cn/product/Grilled-Chicken-Sandwich"
+  },
+  {
+    "img": "img/hamburgers/麦香鸡.png",
+    "name": "麦香鸡",
+    "link": "https://www.mcdonalds.com.cn/product/McChicken"
+  },
+  {
+    "img": "img/hamburgers/麦香鱼.png",
+    "name": "麦香鱼",
+    "link": "https://www.mcdonalds.com.cn/product/Filet-O-Fish"
+  },
+  {
+    "img": "img/hamburgers/吉士汉堡包.png",
+    "name": "吉士汉堡包",
+    "link": "https://www.mcdonalds.com.cn/product/Cheeseburger"
+  },
+  {
+    "img": "img/hamburgers/双层吉士汉堡.png",
+    "name": "双层吉士汉堡",
+    "link": "https://www.mcdonalds.com.cn/product/Double-Cheeseburger"
+  },
+  {
+    "img": "img/hamburgers/不素之霸双层牛堡.png",
+    "name": "不素之霸双层牛堡",
+    "link": "https://www.mcdonalds.com.cn/product/beef-sausage"
+  },
+  {
+    "img": "img/hamburgers/双层深海鳕鱼堡.png",
+    "name": "双层深海鳕鱼堡",
+    "link": "https://www.mcdonalds.com.cn/product/double-fof"
+  },
+  {
+    "img": "img/hamburgers/培根安格斯厚牛堡.png",
+    "name": "培根安格斯厚牛堡",
+    "link": "https://www.mcdonalds.com.cn/product/Thick-Angus-Beef-Burger-with-Bacon"
+  },
+  {
+    "img": "img/hamburgers/芝士安格斯厚牛堡.png",
+    "name": "芝士安格斯厚牛堡",
+    "link": "https://www.mcdonalds.com.cn/product/Cheese-Angus"
+  },
+  {
+    "img": "img/hamburgers/培根双层安格斯厚牛堡.png",
+    "name": "培根双层安格斯厚牛堡",
+    "link": "https://www.mcdonalds.com.cn/product/Thick-Angus-Double-Beef-Burger-with-Bacon"
+  },
+  {
+    "img": "img/hamburgers/芝士双层安格斯厚牛堡.png",
+    "name": "芝士双层安格斯厚牛堡",
+    "link": "https://www.mcdonalds.com.cn/product/Thick-Angus-Double-Beef-Burger-with-Cheese-Sauce"
+  },
+  {
+    "img": "img/hamburgers/培根蔬萃双层牛堡.png",
+    "name": "培根蔬萃双层牛堡",
+    "link": "https://www.mcdonalds.com.cn/product/Bacon-Lettuce-Tomato-Double-Beef-Burger"
+  },
+  {
+    "img": "img/hamburgers/酥酥多笋卷.png",
+    "name": "酥酥多笋卷",
+    "link": "https://www.mcdonalds.com.cn/product/酥酥多笋卷"
+  }
+]

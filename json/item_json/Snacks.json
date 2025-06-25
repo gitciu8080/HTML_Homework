@@ -1,0 +1,67 @@
+[
+  {
+    "img": "img/Snacks/薯条.png",
+    "name": "薯条",
+    "link": "https://www.mcdonalds.com.cn/product/French-Fries"
+  },
+  {
+    "img": "img/Snacks/脆脆薯条.png",
+    "name": "脆脆薯条",
+    "link": "https://www.mcdonalds.com.cn/product/脆脆薯条"
+  },
+  {
+    "img": "img/Snacks/麦辣鸡翅.png",
+    "name": "麦辣鸡翅",
+    "link": "https://www.mcdonalds.com.cn/product/Spicy-McWings"
+  },
+  {
+    "img": "img/Snacks/薄皮焦香V翅.png",
+    "name": "薄皮焦香V翅",
+    "link": "https://www.mcdonalds.com.cn/product/20250326-V-wings"
+  },
+  {
+    "img": "img/Snacks/麦麦脆汁鸡（琵琶腿）.png",
+    "name": "麦麦脆汁鸡（琵琶腿）",
+    "link": "https://www.mcdonalds.com.cn/product/BIC-drumstick"
+  },
+  {
+    "img": "img/Snacks/麦麦脆汁鸡（带骨里脊）.png",
+    "name": "麦麦脆汁鸡（带骨里脊）",
+    "link": "https://www.mcdonalds.com.cn/product/BIC-breast"
+  },
+  {
+    "img": "img/Snacks/蜜汁BBQ风味薄皮脆汁鸡（琵琶腿）.png",
+    "name": "蜜汁BBQ风味薄皮脆汁鸡（琵琶腿）",
+    "link": "https://www.mcdonalds.com.cn/product/Honey-BBQ-Glazed-Crispy-Chicken-Drumstick"
+  },
+  {
+    "img": "img/Snacks/蜜汁BBQ风味薄皮脆汁鸡（带骨里脊）.png",
+    "name": "蜜汁BBQ风味薄皮脆汁鸡（带骨里脊）",
+    "link": "https://www.mcdonalds.com.cn/product/Honey-BBQ-Glazed-Crispy-Chicken-Breast"
+  },
+  {
+    "img": "img/Snacks/麦乐鸡 (5块).png",
+    "name": "麦乐鸡 (5块)",
+    "link": "https://www.mcdonalds.com.cn/product/Chicken-McNuggets"
+  },
+  {
+    "img": "img/Snacks/麦麦趣鸡球.png",
+    "name": "麦麦趣鸡球",
+    "link": "https://www.mcdonalds.com.cn/product/麦麦趣鸡球"
+  },
+  {
+    "img": "img/Snacks/那么大鸡排.png",
+    "name": "那么大鸡排",
+    "link": "https://www.mcdonalds.com.cn/product/Big-Chicken-Cutlet"
+  },
+  {
+    "img": "img/Snacks/玉米杯.png",
+    "name": "玉米杯",
+    "link": "https://www.mcdonalds.com.cn/product/Corn-Cup"
+  },
+  {
+    "img": "img/Snacks/苹果片.png",
+    "name": "苹果片",
+    "link": "https://www.mcdonalds.com.cn/product/Apple-Slice"
+  }
+]

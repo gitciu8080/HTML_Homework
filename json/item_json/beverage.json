@@ -1,0 +1,67 @@
+[
+  {
+    "img": "img/beverage/可口可乐.png",
+    "name": "可口可乐",
+    "link": "https://www.mcdonalds.com.cn/product/Coca-Cola"
+  },
+  {
+    "img": "img/beverage/无糖可口可乐.png",
+    "name": "无糖可口可乐",
+    "link": "https://www.mcdonalds.com.cn/product/Coca-Cola-Zero"
+  },
+  {
+    "img": "img/beverage/阳光柠檬红茶.png",
+    "name": "阳光柠檬红茶",
+    "link": "https://www.mcdonalds.com.cn/product/Fuze-Tea"
+  },
+  {
+    "img": "img/beverage/雪碧.png",
+    "name": "雪碧",
+    "link": "https://www.mcdonalds.com.cn/product/Sprite"
+  },
+  {
+    "img": "img/beverage/怡泉+C.png",
+    "name": "怡泉+C",
+    "link": "https://www.mcdonalds.com.cn/product/%E6%80%A1%E6%B3%89C"
+  },
+  {
+    "img": "img/beverage/麦旋酷阳光橙.png",
+    "name": "麦旋酷阳光橙",
+    "link": "https://www.mcdonalds.com.cn/product/Drink-16"
+  },
+  {
+    "img": "img/beverage/【美汁源】“黄金橙橙”.png",
+    "name": "【美汁源】“黄金橙橙”",
+    "link": "https://www.mcdonalds.com.cn/product/Minute-Maid-Sunshine-Orange-Juice-2"
+  },
+  {
+    "img": "img/beverage/100%苹果汁.png",
+    "name": "100%苹果汁",
+    "link": "https://www.mcdonalds.com.cn/product/Minute-Maid-100-Apple-Juice"
+  },
+  {
+    "img": "img/beverage/优品豆浆.png",
+    "name": "优品豆浆",
+    "link": "https://www.mcdonalds.com.cn/product/Soybean-Milk"
+  },
+  {
+    "img": "img/beverage/纯牛奶（盒装）.png",
+    "name": "纯牛奶（盒装）",
+    "link": "https://www.mcdonalds.com.cn/product/Drink-11"
+  },
+  {
+    "img": "img/beverage/热朱古力.png",
+    "name": "热朱古力",
+    "link": "https://www.mcdonalds.com.cn/product/Hot-Chocolate"
+  },
+  {
+    "img": "img/beverage/锡兰红茶.png",
+    "name": "锡兰红茶",
+    "link": "https://www.mcdonalds.com.cn/product/Hot-Tea"
+  },
+  {
+    "img": "img/beverage/纯悦.png",
+    "name": "纯悦",
+    "link": "https://www.mcdonalds.com.cn/product/Drinking-Water-2"
+  }
+]

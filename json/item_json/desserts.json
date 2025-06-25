@@ -1,0 +1,47 @@
+[
+  {
+    "img": "img/desserts/圆筒冰淇淋.png",
+    "name": "圆筒冰淇淋",
+    "link": "https://www.mcdonalds.com.cn/product/Cone"
+  },
+  {
+    "img": "img/desserts/奥利奥麦旋风.png",
+    "name": "奥利奥麦旋风",
+    "link": "https://www.mcdonalds.com.cn/product/Oreo-Mcflurry"
+  },
+  {
+    "img": "img/desserts/草莓麦旋风.png",
+    "name": "草莓麦旋风",
+    "link": "https://www.mcdonalds.com.cn/product/Strawberry-Oreo-Mcflurry"
+  },
+  {
+    "img": "img/desserts/朱古力新地.png",
+    "name": "朱古力新地",
+    "link": "https://www.mcdonalds.com.cn/product/Chocolate-Sundae"
+  },
+  {
+    "img": "img/desserts/草莓新地.png",
+    "name": "草莓新地",
+    "link": "https://www.mcdonalds.com.cn/product/Strawberry-Sundae"
+  },
+  {
+    "img": "img/desserts/迷你朱古力新地.png",
+    "name": "迷你朱古力新地",
+    "link": "https://www.mcdonalds.com.cn/product/迷你朱古力新地"
+  },
+  {
+    "img": "img/desserts/迷你草莓新地.png",
+    "name": "迷你草莓新地",
+    "link": "https://www.mcdonalds.com.cn/product/迷你草莓新地"
+  },
+  {
+    "img": "img/desserts/香芋派.png",
+    "name": "香芋派",
+    "link": "https://www.mcdonalds.com.cn/product/Taro-Pie"
+  },
+  {
+    "img": "img/desserts/菠萝派.png",
+    "name": "菠萝派",
+    "link": "https://www.mcdonalds.com.cn/product/Pineapple-Pie"
+  }
+]
